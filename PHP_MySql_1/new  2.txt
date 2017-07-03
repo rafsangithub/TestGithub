@@ -1,0 +1,8 @@
+.mbstu{width:400px;margin-left:20px;margin-right:20px;float:left;padding:20px;background:#ffb6c1}
+.hdstu{width:400px;margin-top:0px;padding-right:20px;margin-bottom:20px;padding:20px;background:#ffb6c1}
+.buet{width:400px;margin-left:20px;margin-right:20px;float:left;padding:20px;background:#ffb6c1}
+.du{width:400px;margin-top:0px;padding-right:20px;margin-bottom:20px;padding:20px;background:#ffb6c1}
+.ru{width:400px;margin-left:20px;margin-right:20px;float:left;padding:20px;background:#ffb6c1}
+.ruet{width:400px;margin-top:0px;padding-right:20px;margin-bottom:20px;padding:20px;background:#ffb6c1}
+.ku{width:400px;margin-left:20px;margin-right:20px;float:left;padding:20px;background:#ffb6c1}
+.kuet{width:400px;margin-top:0px;padding-right:20px;margin-bottom:20px;padding:20px;background:#ffb6c1}

@@ -1,0 +1,20 @@
+* {margin:0;padding:0}
+body {font-family:arial;font-size:16px;line-height:22px;color:#4682b4;background:#fffff0}
+.fix {overflow:hidden}
+
+.main {width:960px;margin:0px auto;display:block;background:#ffffff}
+
+
+.sec_content{margin-top:30px}
+.img{margin-bottom:60px}
+.sec_header{line-height:2px;margin-top:25px;margin-left:320px;margin-bottom:45px}
+.mbstu{width:400px;margin-left:20px;margin-right:20px;float:left;padding:20px;background:#ffb6c1}
+.hdstu{width:400px;margin-top:0px;padding-right:20px;margin-bottom:20px;padding:20px;background:#ffb6c1}
+.buet{width:400px;margin-left:20px;margin-right:20px;float:left;padding:20px;background:#ffb6c1}
+.du{width:400px;margin-top:0px;padding-right:20px;margin-bottom:20px;padding:20px;background:#ffb6c1}
+.ru{width:400px;margin-left:20px;margin-right:20px;float:left;padding:20px;background:#ffb6c1}
+.ruet{width:400px;margin-top:0px;padding-right:20px;margin-bottom:20px;padding:20px;background:#ffb6c1}
+.ku{width:400px;margin-left:20px;margin-right:20px;float:left;padding:20px;background:#ffb6c1}
+.kuet{width:400px;margin-top:0px;padding-right:20px;margin-bottom:20px;padding:20px;background:#ffb6c1}
+
+footer {padding:10px;background:#BBBBBB;margin-top:15px}
